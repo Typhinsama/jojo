@@ -1,0 +1,116 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+ background: url('https://i.ebayimg.com/images/g/DBIAAOSwgENd5dmX/s-l640.jpg')
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+#nav{
+  color: black;
+  font-family:Avantgarde
+}
+
+#search{
+  color:black;
+  font-family:Avantgarde
+}
+#bar{
+  color:yellow;
+  font-family:Avantgarde;
+    font-size:20px;
+}
+
+#car{
+  color:blue;
+    font-family:Avantgarde;
+    font-size:25px;
+}
+
+#tim{
+  color: red;
+  font-family:Avantgarde;
+    font-size:20px;
+}
+
+#cat{
+  color: #461a29;
+  font-family:Avantgarde;
+    font-size:15px;
+}
+
+#content123{
+  color:blue;
+   font-family:Avantgarde;
+    font-size:20px
+}
+
+#content12{
+   color:blue;
+   font-family:Avantgarde;
+    font-size:20px
+}
+
+#content1{
+   color:blue;
+   font-family:Avantgarde;
+    font-size:20px
+}
+
+#content{
+   color:blue;
+   font-family:Avantgarde;
+    font-size:20px
+}
+
+#conten{
+   color:blue;
+   font-family:Avantgarde;
+    font-size:20px
+}
+
+#conte{
+   color:blue;
+   font-family:Avantgarde;
+    font-size:20px
+}
+
+#cont{
+   color:blue;
+      font-family:Avantgarde;
+    font-size:20px
+}
+
+#con{
+   color:blue;
+   font-family:Avantgarde;
+    font-size:20px
+  
+}
+
+#co{
+   color:blue;
+   font-family:Avantgarde;
+  font-size:20px
+}
+
+#c{
+   color:blue;
+   font-family:Avantgarde;
+  font-size:20px
+}
+
+#cake{
+  color:black
+}
+
+#timmy{
+ color:red;
+  font-size:20px
+   
+}
